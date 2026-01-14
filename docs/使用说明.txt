@@ -1,0 +1,38 @@
+=================================================================
+Python 分发大师 (Pro Suite) v10.2 Master Build
+Python Distribution Master (Pro Suite) v10.2 Master Build
+=================================================================
+
+【CN】本套件是为您打造的工业级 Python 脚本转换与分发工具。
+【EN】This suite is an industrial-grade tool for Python script conversion and distribution.
+
+---
+
+1. 安全合规 (Security & Compliance)
+----------------------------------
+- 【CN】漏洞预警 (CVE Scan)：预先扫描库安全状态。
+- 【EN】CVE Scan: Proactively scan library security status.
+- 【CN】完整性审计：为 EXE 注入自校验与自修复逻辑。
+- 【EN】Integrity Audit: Inject self-verification and self-healing logic into EXEs.
+- 【CN】内存加载 (Ghost Mode)：高阶安全模式，代码零磁盘占用运行。
+- 【EN】Ghost Mode: Advanced security mode, code runs with zero disk footprint.
+
+2. 分发工程 (Engineering)
+-------------------------
+- 【CN】多架构构建：支持 X64/ARM64 架构并行编译。
+- 【EN】Multi-Arch Build: Parallel compilation for X64/ARM64 architectures.
+- 【CN】一键深度清理：秒级移除所有构建产物与冗余文件。
+- 【EN】Deep Cleanup: One-click removal of all build artifacts and redundant files.
+- 【CN】中英双语切换：系统自动根据环境调整语言，或通过主界面查看。
+- 【EN】Bilingual Support: Auto-detects system language and provides CN/EN labels.
+
+3. GitHub 全生态支持 (GitHub Ecosystem)
+---------------------------------------
+- 【CN】一键资产生成：自动创建 README, .gitignore 和 CI/CD 流水线。
+- 【EN】Asset Generation: Auto-create README, .gitignore, and CI/CD pipelines.
+
+---
+
+【CN】由 Python 分发大师 (Pro Suite) 团队荣誉出品
+【EN】Proudly developed by Python Distribution Master (Pro Suite) Team
+=================================================================

@@ -1,0 +1,6 @@
+# Python Distribution Suite Pro - Requirements
+nuitka>=1.0.0
+pyinstaller>=5.0.0
+pyarmor>=8.0.0
+requests>=2.25.0
+safety>=2.0.0

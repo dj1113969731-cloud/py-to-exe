@@ -1,0 +1,12 @@
+{
+    "engine": "pyinstaller",
+    "last_mode": "window",
+    "use_venv": true,
+    "theme": "light",
+    "integrity_check": true,
+    "stealth_mode": false,
+    "cve_scan": true,
+    "multi_arch": false,
+    "version": "1.0.2.0",
+    "github_user": "Developer"
+}
